@@ -2,8 +2,8 @@
 ##title A
 - item a
 - item b(modify here)
-- item c
+- item c(modify in working dir after add again)
 ##title B
 1. list 1(modify again)
-2. list 2
+2. list 2(modify in working dir after add)
 3. list 3(modify in working dir)
