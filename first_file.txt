@@ -9,3 +9,4 @@
 3. list 3(modify in working dir)
 add something in working dir
 modify after add
+now I do the modify local
