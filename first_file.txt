@@ -11,3 +11,5 @@ add something in working dir
 modify after add
 now I do the modify local
 modify on feature branch
+modify something on Aug.25
+modify something on Aug.25 for a second time
